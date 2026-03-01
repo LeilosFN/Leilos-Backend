@@ -11,7 +11,8 @@
         "EnableGlobalChat": false
     },
     "matchmakerIP": "79.116.27.15:8080",
-    "gameServerIP": "79.116.51.74:7777",
+    "gameServerIP": "79.116.27.15:7777",
     "bEnableBattlepass": false
 
 }
+
